@@ -1,0 +1,5 @@
+git hub page 
+build and development branch /docs
+flutter build web --base-href=/testingGame
+git commit -m "adding web demo"
+git push
